@@ -1,0 +1,3 @@
+scaricare la MDK (forge-1.21-51.0.33-mdk.zip) della versione di Minecraft che ci interessa, unzipparla nella cartella di lavoro e aprirla con Intellij IDEA
+
+JDK Usato Eclipse 21.0.9, per usarlo nel progetto andare su File\Project Structure e selezionarlo in SDK
